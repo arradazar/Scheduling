@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B2F23C5-78AC-4FC1-8714-613D408D324C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45D9CE3D-3D55-44E1-8C85-60BC5592C880",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8683CA3-9CA7-4C52-A2C8-1295C178F22B",
+    "height": 81,
+    "width": 375,
+    "x": 0,
+    "y": 731
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5DE608F2-A95D-4FA6-8CD5-040F96D12A48"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EB4E3A8F-A2AF-4726-80A4-989002A929AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81B31A13-4C9F-46D8-B1FE-B09CDFE12A2C"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "nav",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7AA64E68-0D0E-434C-BE94-6D239734CF8F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "5E2C8E01-0DBF-42FF-AD8C-18D404B8C9F3",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "F542AB24-94FC-490D-94B6-852F245FB14C",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "48A9D9E5-0A90-46CF-B63A-7E999C569C96",
+      "opacity": 1
+    },
+    "do_objectID": "45F1E592-85E8-4292-88C3-2EE6E939BC60",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

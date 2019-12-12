@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "97E5C43E-5621-4631-9A2E-8497D47C4CAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09D4D5FC-D60C-4BA7-AAE1-A66DD2EF16E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A010EAB-EB95-4AC5-87FC-AC898D9AC8AA",
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 86
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Bars/SU/Notification/Notification Sucess",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "30BF6906-ABF1-4BB4-84D2-748497660C49",
+      "overrideName": "061F5BDE-56B6-4D75-842C-10E5B0DCE2CB_stringValue",
+      "value": "Time off request has been deleted"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1596A37D-F2AE-41CC-85AF-82C8530D7193",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "17C5B43E-9DA8-41DE-B71D-994F265986E4",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "8F1ECEE7-7242-4BCB-BFDA-4A11A1ABBADC",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "AB6F2E61-B829-4FB8-BB14-CE45D4CFA180",
+      "opacity": 1
+    },
+    "do_objectID": "A0086CCE-AA75-40DE-B30E-D059C7EE4B34",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FA5B03A9-1F27-49C0-8BE5-16B8CFA94A7C",
+  "verticalSpacing": 0
+}

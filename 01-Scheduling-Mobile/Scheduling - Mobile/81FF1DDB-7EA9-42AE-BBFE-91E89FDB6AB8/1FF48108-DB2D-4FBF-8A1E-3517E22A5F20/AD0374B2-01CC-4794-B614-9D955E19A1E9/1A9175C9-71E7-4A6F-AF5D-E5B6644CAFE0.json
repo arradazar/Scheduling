@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A9175C9-71E7-4A6F-AF5D-E5B6644CAFE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5735427E-84DC-415A-85B9-182759FAA6F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EBA2B99-4831-4A2E-9051-0BF292E0F55B",
+    "height": 73,
+    "width": 180,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Elements/Widget/Schedule/Shift Block",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93B3E933-64F2-418C-BB07-CEFAA8263740",
+      "overrideName": "2B270E03-6766-4719-80EB-AC4EAE8C554A_layerStyle",
+      "value": "218D281B-EB80-4686-B648-64AB7346E50F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A86ECEF-7901-4CCE-B940-E320A5BABF94",
+      "overrideName": "C0A585A4-E0D3-4BC1-B8DE-1547F22F33EF_stringValue",
+      "value": "9:00PM - 5:00PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B315378-3614-48DB-87F4-DE324E2D80ED",
+      "overrideName": "215655CF-E729-4218-B478-9A0A47D3DA6E_stringValue",
+      "value": "Stylist"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB337A7C-C2FB-4456-96E4-ADCC1008344A",
+      "overrideName": "E3B49C1E-03D7-4C90-9A66-4837C93A7875_stringValue",
+      "value": "Rochester, Maiden Lane"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E87AAC20-5133-4956-9577-7E51EF1E1ED3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "65B1DF1A-5E8A-4FCC-83B0-964E71BD0354",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "C6AB434D-C013-4B98-B16C-54A484EF5E6A",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "A1B9B2A1-D497-4CE3-9F0C-AB8668926DF7",
+      "opacity": 1
+    },
+    "do_objectID": "1AAB2EE7-9A6A-4D06-A3C4-C967AAD0EFB3",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5A130FD8-1D58-48B8-912A-27963BA298AC",
+  "verticalSpacing": 0
+}

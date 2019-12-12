@@ -1,0 +1,161 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CA3670C-4371-403E-809F-5C1FEF3388D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F3F26C8-6214-4306-9469-06A9DC151984",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BB1E2917-98C5-4F01-8FFC-F6C16AE16737",
+    "height": 100,
+    "width": 100,
+    "x": 110,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2B2DA729-A7CB-471D-B3D1-77CE0C51FDEB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EFEA03BF-EFC5-4F51-99E0-9824C5FC730A"
+    },
+    {
+      "class": "shapePath",
+      "id": "D6B72AF4-4197-4EC9-9718-DC4FD05DC1A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "850E1D15-E510-4D56-A456-0645C15A4F2D"
+    },
+    {
+      "class": "shapePath",
+      "id": "B72970EB-CB40-4009-B003-0E3904FAF256"
+    },
+    {
+      "class": "shapePath",
+      "id": "193AEE93-3093-400D-9034-37D32DCFBBB3"
+    },
+    {
+      "class": "shapePath",
+      "id": "AF987A91-FAB6-4C19-8D87-369942CA8E19"
+    },
+    {
+      "class": "shapePath",
+      "id": "F981A794-0051-4320-8288-6186F99CB236"
+    },
+    {
+      "class": "group",
+      "id": "9AD0E11B-8D8D-4AA1-84A3-310A294E92DC"
+    },
+    {
+      "class": "shapePath",
+      "id": "2C95D5E0-53A8-4410-896C-C6D39632D1C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "D60AB522-72AD-4868-85DC-97409E6022E7"
+    },
+    {
+      "class": "shapePath",
+      "id": "068F25CA-589D-42FA-8AFA-7B1AA9722978"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Delete Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F2FBE909-9613-443A-8722-795DC0F90CAA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "E6450200-2E28-4594-BB14-D89E118223FA",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "8A876395-3351-4CBD-B083-89F975BCA6FB",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "FB1D1986-0F56-4DE9-B64C-F5BF1E6A6542",
+      "opacity": 1
+    },
+    "do_objectID": "4234FFFC-62E3-4D89-BB62-45C271D27C09",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 100,
+            "enabled": 1,
+            "modelID": "constraint_8a46db13-64c6-4a86-955a-df5e74f579d2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 100
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_60fd8a8b-c2e1-43ae-ae42-b84405bc6f66",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

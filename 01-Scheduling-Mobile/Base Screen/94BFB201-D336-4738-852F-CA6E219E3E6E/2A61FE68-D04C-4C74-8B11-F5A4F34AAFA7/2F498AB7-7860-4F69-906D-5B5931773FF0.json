@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F498AB7-7860-4F69-906D-5B5931773FF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D732AAC4-C44B-462B-BA74-4A308781EDE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A85063A-FD84-49F0-AF04-E46C2A6B5351",
+    "height": 50,
+    "width": 35,
+    "x": 219.4148936170213,
+    "y": 139
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "dates copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E24DF6B-C3C3-4DB1-8D28-6A586819DA87",
+      "overrideName": "6F9FE07D-94BC-4E83-8258-82FE35A1727A_stringValue",
+      "value": "19"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "222E8B0B-D190-40DE-9479-18E9CE56EE32",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "F75E7E67-E8AA-4BDC-9399-A0ACA28D5EE8",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "ECCF15CA-F9D0-44FC-8D35-17DA4188B965",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "078746CD-C81D-4FB4-8597-2D25980C6386",
+      "opacity": 1
+    },
+    "do_objectID": "D8912B0F-9B33-4FBD-9DFA-EC8315CB5665",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "649D17CB-F0F6-4E15-8819-37F3C3351C0D",
+  "verticalSpacing": 0
+}

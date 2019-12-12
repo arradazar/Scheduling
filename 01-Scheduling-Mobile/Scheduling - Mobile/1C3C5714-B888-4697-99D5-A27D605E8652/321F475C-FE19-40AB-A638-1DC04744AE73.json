@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "321F475C-FE19-40AB-A638-1DC04744AE73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "657495B6-12F6-443F-B0B9-2AB52BB64CA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "199AAE0F-6ED9-4AA4-88D3-EA41405A3791",
+    "height": 291,
+    "width": 375,
+    "x": 0,
+    "y": 521
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "System / Keyboards / iPhone / Light / Alphabetic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F8413E0A-5616-420E-A2B3-1F846D70E743/25241EDC-AF2B-45E2-B367-9C1F50E05677_stringValue",
+      "value": "Return"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "72E5E14E-AAE1-4427-845B-67A5AD96C606",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "72E66CB3-A300-4482-83FF-5C6A141C3B8D",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "2F782C65-A330-48D6-B66D-70E20C072437",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "CC555845-3BB9-4F2B-9EEF-DC2D1D197A69",
+      "opacity": 1
+    },
+    "do_objectID": "5722FFA2-CFFF-49FF-A151-273C23BAF4A2",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2660A3A0-5668-4209-ADFD-66B4FBEDA96F",
+  "verticalSpacing": 0
+}

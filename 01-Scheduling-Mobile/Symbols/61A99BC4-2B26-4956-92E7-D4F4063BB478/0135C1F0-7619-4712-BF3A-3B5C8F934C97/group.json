@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0135C1F0-7619-4712-BF3A-3B5C8F934C97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 398,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "227A9769-14C9-4E2E-95AE-C3522B772A95"
+    },
+    {
+      "class": "group",
+      "id": "581E7301-2F13-42E3-83B9-0093C9AD5BEC"
+    },
+    {
+      "class": "group",
+      "id": "D8A82196-50DF-4FE5-A6DC-81A179F1E633"
+    },
+    {
+      "class": "group",
+      "id": "2DF7E655-AFC6-439C-8D6E-F36E84DEBCFF"
+    },
+    {
+      "class": "group",
+      "id": "77AAA5DB-5DB0-443C-9E15-4CE34CABA399"
+    },
+    {
+      "class": "group",
+      "id": "2049FBFF-F88F-4DEE-853E-4525F4D0A1CB"
+    },
+    {
+      "class": "group",
+      "id": "6E535C46-D0C4-455F-ADAE-A09000ECC82C"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Keyboard Landscape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FBCCB9EF-58BD-4110-9F9B-616A14D4F6A2",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

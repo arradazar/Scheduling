@@ -1,0 +1,105 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0A50E7F-9B73-49A9-84D3-C1147FA23F29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5181791-5AD1-4535-A0B1-5758FC11F984",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D391B001-E93A-485D-AD1B-401321903187",
+    "height": 60,
+    "width": 375,
+    "x": 0,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "header base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A09A109A-4F1B-45C7-BB2D-52CD1119213B_stringValue",
+      "value": "Time off"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1165F427-35FE-4251-A85C-3C968279A3C1_stringValue",
+      "value": "Pending "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8113F827-D02B-403E-BC1A-AE79416AF892",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "D551CB89-5379-4098-8C52-5A5168BBC99C",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "368D86FC-D6C7-4CA0-BB63-0F2A63EA14E8",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "CC5B1724-F6BB-4268-B7D3-52E292B5DA90",
+      "opacity": 1
+    },
+    "do_objectID": "73F0179D-5BC6-4987-AD0D-F8EC6A7640A0",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BFBBCE56-176B-4564-B2E3-7341399A3529",
+  "verticalSpacing": 0
+}

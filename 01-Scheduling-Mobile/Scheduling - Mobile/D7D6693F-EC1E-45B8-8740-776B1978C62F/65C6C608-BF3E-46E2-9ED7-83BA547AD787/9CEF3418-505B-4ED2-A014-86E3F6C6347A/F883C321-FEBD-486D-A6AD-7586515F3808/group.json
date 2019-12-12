@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F883C321-FEBD-486D-A6AD-7586515F3808",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "772BEDD4-9D03-4F60-9593-A599B2C93A18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "317798A6-2935-4A76-8730-62993DDB9994",
+    "height": 73,
+    "width": 278,
+    "x": 2,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E73D7263-4C3B-402F-8634-3E0307E34AF4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6457CD08-942C-428C-B46B-17F668579300"
+    },
+    {
+      "class": "text",
+      "id": "91AD429C-8273-4B9F-812B-DF39B3765C33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FD4D794-889C-4EF7-9659-BCB85B44D70B"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "mon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7AFCCC67-9C6C-49FE-AA51-05158A0CF169",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "97E4E590-02B7-4BEC-A5DB-4D0938B4A6A1",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "1B8267AE-1A86-48DE-BA9D-0A604F43546A",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "BC47FD32-1F01-405E-9BC2-138A366BADFF",
+      "opacity": 1
+    },
+    "do_objectID": "07C6530D-C4E9-4B6C-BE12-4C8AE03DADB8",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

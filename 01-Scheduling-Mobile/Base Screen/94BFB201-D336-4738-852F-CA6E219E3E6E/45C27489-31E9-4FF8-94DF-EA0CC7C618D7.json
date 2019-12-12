@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "45C27489-31E9-4FF8-94DF-EA0CC7C618D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "912B62CC-D8AC-420B-923C-0C129EC63258",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D07F1857-75D2-4E62-8FCC-1A033877F256",
+    "height": 60,
+    "width": 375,
+    "x": 0,
+    "y": 587
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Elements/Mobile/Bottom Menu",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA0858C6-3050-447E-ACDC-B0BEAEC854CE",
+      "overrideName": "E1A7F29E-FBAC-4960-A7DD-1909BE204AD5_stringValue",
+      "value": "Time Clock"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB16BAA0-4DD6-4788-A8AF-BFE3DD3356EB",
+      "overrideName": "81B59407-139F-40E2-AF33-39E0B2E5D1EF_stringValue",
+      "value": "Scheduling"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25F68548-EE03-4CC9-862D-3B9BAF6C5DCD",
+      "overrideName": "A82EF9BD-5E04-4E08-9823-E42DCBDBD6BB_stringValue",
+      "value": "Sales"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCA5714D-9065-43D4-B278-B086BF42560E",
+      "overrideName": "B9689B51-9298-4234-AEC6-C44FCBDCD55B_stringValue",
+      "value": "Appt. Book"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E9E6F743-ECD0-4427-9CE0-5F8B5F461C02",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "0C318681-BDD1-4051-8B6D-2E433976A28B",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "511557CA-35F8-4549-94EA-591B2C1E2D84",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7DAA1268-1222-47DB-B5EA-EE40243FD459",
+      "opacity": 1
+    },
+    "do_objectID": "F0CA2D07-AE6A-4777-837B-0CD8CE31383E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "96899635-8026-49FE-A8E2-3611C1B91471",
+  "verticalSpacing": 0
+}

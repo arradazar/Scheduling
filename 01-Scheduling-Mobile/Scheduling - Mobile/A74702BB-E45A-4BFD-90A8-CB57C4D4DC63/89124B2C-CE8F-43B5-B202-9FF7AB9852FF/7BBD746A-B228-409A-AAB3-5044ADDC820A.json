@@ -1,0 +1,155 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7BBD746A-B228-409A-AAB3-5044ADDC820A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD0FE3F2-4729-48BC-B1DE-3039738F6F9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9627F997-1492-4A27-861F-791429E6B884",
+    "height": 50,
+    "width": 375,
+    "x": 0,
+    "y": 34
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Form Sheet/Navigation/Default - Landscape",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BC58392A-619D-4841-8858-223305D29A0C_textStyle",
+      "value": "0553C5A6-176E-49A4-A807-308CEC24D1D3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EDF0A493-7EBB-4E3E-B71B-E111A09AEA8C/F7BE8B40-EAA6-4AA1-B157-5C0A14B8BB53_layerStyle",
+      "value": "8B97B0A1-EF67-41AE-B45A-2B7BBF6EDF59"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47B1E4E8-FE7E-4557-8937-CC885FB3E3EA_textStyle",
+      "value": "2B59AF0D-CAB9-4936-836E-F2014BA104F6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47B1E4E8-FE7E-4557-8937-CC885FB3E3EA_stringValue",
+      "value": "Summary"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2ECA8038-E682-46CF-B770-DBE9F3480B5F_textStyle",
+      "value": "2B59AF0D-CAB9-4936-836E-F2014BA104F6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2ECA8038-E682-46CF-B770-DBE9F3480B5F_stringValue",
+      "value": "Time off Requests"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BDF81AB0-53F6-4BD1-B94A-F4616E874BA4_textStyle",
+      "value": "6A956EF0-0F41-4E23-B9CB-0FAA672024AD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BDF81AB0-53F6-4BD1-B94A-F4616E874BA4_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DD516B87-3D9A-4DED-A5FE-C9E70300D9C9_layerStyle",
+      "value": "1E34A541-219F-4827-AE87-CFA0A8884727"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9945FD13-75DC-4556-A1A7-7626DF5A2F80_textStyle",
+      "value": "0777EA70-E187-426C-9824-EAC42FC858E8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "841B83A4-1E43-425C-A5BD-BA06422ABE99_textStyle",
+      "value": "0553C5A6-176E-49A4-A807-308CEC24D1D3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9945FD13-75DC-4556-A1A7-7626DF5A2F80_stringValue",
+      "value": "Charlotte Weistnatt"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DB3173BA-CDFF-40B5-93D0-314C52A63321",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "B847AAFF-08B2-41BF-A25D-F3AE228F3D6F",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "671E7F37-654D-4E1E-91EC-E948DD813170",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "FC624EDB-A8D4-4C0D-8738-A2B9AB8F2FB0",
+      "opacity": 1
+    },
+    "do_objectID": "2213A706-B82D-4BEC-A817-C857AFC9FB2A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F56F69D3-9DF7-4124-BE53-0DED4249F9F8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,143 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "36FF2127-28A3-4AD7-A25B-C6B112D8B613",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 194,
+    "width": 375,
+    "x": 0,
+    "y": 618
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Elements/Pickup Roll/Time Picker",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E037BE2F-9DA3-416D-A059-CA94792B65E5_stringValue",
+      "value": "PM"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "94FE3243-B21E-45BB-8CA6-7380887229AE_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "418351B7-A0EE-40FB-B222-29F82C4E8651_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBB73E0C-4227-4C00-A3EF-6881296AE18F_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0083550A-FE21-45FE-9C62-35E501DF5462_stringValue",
+      "value": "2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "98BC119B-1BEA-4AA9-A241-6C636A6D0D79_stringValue",
+      "value": "6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "339143EB-9861-4A14-B604-3D8FC8E57A6D_stringValue",
+      "value": "8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0E9A3023-9471-45F2-8BEA-2B9265CC2883_stringValue",
+      "value": "9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F02CAFB4-EA0C-42E7-97A9-CD1F9E2272F2_stringValue",
+      "value": "10"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6590D48D-73DC-41DD-99B4-2EEF1B59AEDC_stringValue",
+      "value": "11"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7AE9FFB1-1DDE-4791-B906-C09D8E7056C0_stringValue",
+      "value": "AM"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "576284B9-7748-4FC8-BC40-E20A6767F022",
+  "verticalSpacing": 0
+}

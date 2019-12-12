@@ -1,0 +1,125 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6911FFBA-0EA4-4753-9D9B-F7D7FE9AA035",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E88DA3A-4FA1-4E98-84A8-ACF2D1E17743",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "613940B6-3D4C-4B4F-AE91-12379E85A6BD",
+    "height": 36,
+    "width": 36,
+    "x": 22,
+    "y": 1
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Elements/Profile/Image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D86A2F5C-2486-4E93-B132-A48E1441B125_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a29f470a09b566f290cd8a8c5c6b9a11bb771ae4.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1779054A-D648-41BF-81E0-39E35E1ED561",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "468D9D75-EE83-4066-ADD6-47F075A1C061",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "C5552665-FD20-4CCC-BBD9-049FB80F268A",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "2F691A1D-5941-4B57-B6D5-BFA63DB40AE5",
+      "opacity": 1
+    },
+    "do_objectID": "DF309428-15FC-4704-B8A6-9A62796CF446",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "00B0FBE5-2D38-4792-B973-DD2751CFABB5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 35,
+            "enabled": 1,
+            "modelID": "constraint_a430d199-cdfa-4d33-920d-cbb53632b34a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 35
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4a29c33c-2fab-4618-a2e3-8df26608c23d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

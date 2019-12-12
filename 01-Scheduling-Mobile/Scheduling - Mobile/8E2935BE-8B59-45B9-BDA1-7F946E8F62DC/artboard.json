@@ -1,0 +1,167 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8D92CC90-5A44-4CB4-863F-46CA6DEF9EB6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8E2935BE-8B59-45B9-BDA1-7F946E8F62DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5215F90-02DC-4F5C-B872-C0E0A3DED6AA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "473B09BB-A256-4A61-90A2-338A8415A16E",
+    "height": 812,
+    "width": 375,
+    "x": 2576,
+    "y": 2754
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E329CA9D-BE2F-405F-9070-82F9EFE59D2D"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3EFE2E43-9785-4A91-973A-D888DBBB8A92",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CFACFAA3-850F-4EBB-B3BE-964DE07AB0FE"
+    },
+    {
+      "class": "group",
+      "id": "F58D3FA2-CC90-4DFE-BBF0-649A42FA99A7"
+    },
+    {
+      "class": "group",
+      "id": "0B3CB20A-8FAE-42B1-AA35-EB1F915A37A9"
+    },
+    {
+      "class": "group",
+      "id": "1F0ADBAC-42BD-44B5-996E-D664A85D56AB"
+    },
+    {
+      "class": "group",
+      "id": "04614E0E-B781-42E7-B78E-3C4C54220896"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "897CBCD5-CE57-434C-AE9E-7E9BA2ABAE0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C66D197D-5E87-446D-B1B4-B1D08BE35AC2"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Employee - Request Swap Shift 1 Copy 35",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4F1EFFAA-BBBD-4B0F-AE16-995050C918BC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "271D678D-18C3-43C4-8A65-C9EA053EA581",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "48166DD8-826C-43B9-8042-AE881D3A67DA",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "74C243A7-9ECE-465A-950B-DD7E30F5EBDD",
+      "opacity": 1
+    },
+    "do_objectID": "ACEA010B-187B-4DE3-889B-2E971A65D464",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "60B10C42-E43B-42F1-A5FF-380F4417DECC",
+    "guides": [
+    ]
+  }
+}

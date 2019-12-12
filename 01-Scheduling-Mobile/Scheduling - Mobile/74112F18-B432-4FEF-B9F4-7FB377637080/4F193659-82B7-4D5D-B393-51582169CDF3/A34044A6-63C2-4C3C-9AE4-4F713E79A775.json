@@ -1,0 +1,155 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A34044A6-63C2-4C3C-9AE4-4F713E79A775",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4692D391-0C4A-46B4-B0FA-CBDD99C240F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B592F307-F0BB-40E1-9BEC-93CC269285E6",
+    "height": 50,
+    "width": 375,
+    "x": 0,
+    "y": 30
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Form Sheet/Navigation/Default - Landscape",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BC58392A-619D-4841-8858-223305D29A0C_textStyle",
+      "value": "0553C5A6-176E-49A4-A807-308CEC24D1D3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EDF0A493-7EBB-4E3E-B71B-E111A09AEA8C/F7BE8B40-EAA6-4AA1-B157-5C0A14B8BB53_layerStyle",
+      "value": "8B97B0A1-EF67-41AE-B45A-2B7BBF6EDF59"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47B1E4E8-FE7E-4557-8937-CC885FB3E3EA_textStyle",
+      "value": "2B59AF0D-CAB9-4936-836E-F2014BA104F6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47B1E4E8-FE7E-4557-8937-CC885FB3E3EA_stringValue",
+      "value": "Summary"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2ECA8038-E682-46CF-B770-DBE9F3480B5F_textStyle",
+      "value": "2B59AF0D-CAB9-4936-836E-F2014BA104F6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2ECA8038-E682-46CF-B770-DBE9F3480B5F_stringValue",
+      "value": "Vacation Time Off"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BDF81AB0-53F6-4BD1-B94A-F4616E874BA4_textStyle",
+      "value": "AA04E055-9920-45D5-AE02-BE247DE027B1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BDF81AB0-53F6-4BD1-B94A-F4616E874BA4_stringValue",
+      "value": "History "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DD516B87-3D9A-4DED-A5FE-C9E70300D9C9_layerStyle",
+      "value": "1E34A541-219F-4827-AE87-CFA0A8884727"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9945FD13-75DC-4556-A1A7-7626DF5A2F80_textStyle",
+      "value": "0777EA70-E187-426C-9824-EAC42FC858E8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "841B83A4-1E43-425C-A5BD-BA06422ABE99_textStyle",
+      "value": "0553C5A6-176E-49A4-A807-308CEC24D1D3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9945FD13-75DC-4556-A1A7-7626DF5A2F80_stringValue",
+      "value": "Charlotte Weistnatt"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8F880068-909A-40AD-95A9-060707F6950C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "70E1C2DB-412F-4F2F-A086-D85586CFFDBA",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "10FAC2EE-E87E-4E68-9E00-6AF35831BAB1",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C27082F7-22AC-4B6B-824C-DF82BD94EF85",
+      "opacity": 1
+    },
+    "do_objectID": "B90CEBCE-9283-4659-9587-58596446FA96",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F56F69D3-9DF7-4124-BE53-0DED4249F9F8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,134 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2FCE3274-CCE6-4BC7-BF23-29942F8D8576",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 13,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 554,
+    "width": 375,
+    "x": 13,
+    "y": 13
+  },
+  "hasClippingMask": true,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Mask",
+  "nameIsFixed": false,
+  "needsConvertionToNewRoundCorners": false,
+  "pointRadiusBehaviour": 2,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 13,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 13,
+      "curveFrom": "{0.99999999994895905, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999994895905, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999994895905, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 13,
+      "curveFrom": "{0.99999999994895905, 0.99999999999461409}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999994895905, 0.99999999999461409}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999994895905, 0.99999999999461409}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 13,
+      "curveFrom": "{0, 0.99999999999461409}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.99999999999461409}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.99999999999461409}"
+    }
+  ],
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 3
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "61ED4B85-9D62-4449-84F1-FEC0E972D7DA",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.apple.AppleHIExtensions.BackgroundEffectIdentifier": "com.apple.backgroundeffect.yukon.light.system-vibrant-background-regular"
+  }
+}
