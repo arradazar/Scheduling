@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 37,
+        "length": 33,
         "location": 0
       }
     ],
-    "string": "Request Time off from shift - All Day"
+    "string": "Np herre off from shift - All Day"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "23213294-FCFF-4923-9D21-1FA7F208831C",
     "height": 1400,
-    "width": 17590,
+    "width": 15176,
     "x": -783,
     "y": -2005
   },
-  "glyphBounds": "{{73, 282}, {17507, 1028}}",
+  "glyphBounds": "{{73, 282}, {15093, 1028}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Request Time off fro",
+  "name": "Np herre off from sh",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
